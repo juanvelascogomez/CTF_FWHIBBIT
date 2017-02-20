@@ -37,7 +37,7 @@ La pista, en español, dice así, "nuestro conejo tiene un amigo, su nombre es H
   - [ ] Todos los números primos del menú.
   - [ ] Los números del amigo Hurley. Buscando ["Hurley numbers"](http://lostpedia.wikia.com/wiki/The_Numbers) en google se obtienen los números malditos del personaje Hurley de la serie Lost. Esos números eran 4,8,15,16,23,42
 
-  ![Lost](..imagenes/amoy/lostnumbers.jpg)
+  ![Lost](../imagenes/amoy/lostnumbers.jpg)
 
 Quitando todos esos números del menú se obtenian los siguientes caracteres.
 
