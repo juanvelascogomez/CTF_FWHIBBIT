@@ -24,6 +24,7 @@ Writeups de los tres retos de criptografía que propuse en la primera edición d
     RFVGYHN TGBNMJU TYUHN UYTGBNM RFVGYHN
 
 **Puntos:** 150
+
 **País:** Sudan
 
 **Solución:**
@@ -43,8 +44,11 @@ Flag: **fwhibbit{CANTFINDRABBITHUTCH}**
 ## AMOY
 
 **Enunciado:** Oh god! You've ordered chinese food? I love chinese food! :D
+
 **Archivos proporcionados:** [Amoy1](archivos/amoy/Amoy.jpg), [Amoy2](archivos/amoy/Amoy2.jpg)
+
 **Puntos:** 375
+
 **País:** Ethiopia
 
 **Solución:**
