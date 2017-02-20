@@ -43,3 +43,24 @@ Este texto, como bien se puede comprobar con una primera vista, no esta en espa�
 ![viking](../imagenes/kingragnar/viking.gif)
 
 Había que traducir el texto que nos habíamos encontrado. ¿Qué tal vamos de python?
+
+Este es el script en python que he desarrollado para resolver el reto y para pasar un buen rato traduciendo textos.
+
+![viking](../imagenes/kingragnar/logo.png)
+[FuthrakWhat](https://github.com/juanvelascogomez/futharkwhat)
+
+Una vez que le pasamos el fichero [evil_plan.txt](../archivos/kingragnar/evil_plan.txt) al programa nos devuelve el texto traducido:
+
+    vicings is a historical drama television series vritten and created bi michael hirst for the channel histori. filmed in ireland, it premiered on march ,  in canada and the united states. vicings is inspired bi the sagas of vicing ragnar lothbroc, one of the best cnovn legendari norse heroes and notorious as the scourge of england and france. the shov portrais ragnar as a farmer vho rises to fame bi successful raids into england, and eventualli becomes a scandinavian cing, vith the support of his famili and fellov varriors his brother rollo, his son bjrn ironside, and his vivesthe shieldmaiden lagertha and the princess aslaug. vicings vas reneved for a fourth season in march  vith an etended order of  episodes, vhich premiered on februari , . on march , , histori reneved vicings for a fifth season of  episodes
+
+    the series is inspired bi the tales of the raiding, trading, and eploring norsemen of earli medieval scandinavia. it follovs the eploits of the legendari vicing chieftain ragnar lothbroc and his crev and famili, as notabli laid dovn in the th centuri sagas ragnars saga lobrocar and ragnarssona þattr, as vell as in sao grammaticuss th centuri vorc gesta danorum. norse legendari sagas vere partialli fictional tales based in norse oral tradition, vritten dovn about  to  iears after the events thei describe. further inspiration is tacen from historical sources of the period, such as records of the vicing raid on lindisfarne depicted in the second episode, or ahmad ibn fadlans th centuri account of the volga vicings. the series is set at the beginning of the vicing age, marced bi the lindisfarne raid in .
+
+    flag is reach_valhalla_before_his_brother. rembember to vrite it correctli ragnar lothbroc is a mighti and legendari vicing hero, varrior, eplorer, cing of denmarc, and founder of house of lothbroc, vho believes being destined for greatness. he is driven not onli bi his thirst for battle and glori, but also bi his thirst for cnovledge and inuisitive nature. once mereli a farmer and a freuent member of the sea raiders along vith his fellov norsemen, ragnar has since risen to pover, beginning vith his successful and infamous raids of the vest, later became the earl of cattegat and eventualli even cing of denmarc. ragnars adventuring spirit brings him into conflict vith poverful men vho tri to blocc his ascent, from farmer to leaderto untold heights. ragnar identifies vith the god odin, vho traded his eie for cnovledge, and believes himself to be descended from him.
+
+    ueen lagertha is a vell cnovn shield maiden and ueen regnant of denmarc. she continues to fight alongside her former husband, ragnar, vhom she is still in love vith,  her fellov vicing fighters. since the loss of her children and suffering the blovs of love and rejection, lagertha realizes that freijas fertiliti is meant for another, and that it is the goddess varrior aspect that speacs to her fellov valcirie. lagertha remains fierceli independent vhen it comes to protecting her familiand the throne.
+
+Donde se puede encontrar la flag es reach_valhalla_before_his_brother.
+
+Por tanto:
+
+Flag: **fwhibbit{reach_valhalla_before_his_brother}**
