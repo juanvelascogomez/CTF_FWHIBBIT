@@ -47,7 +47,8 @@ Había que traducir el texto que nos habíamos encontrado. ¿Qué tal vamos de p
 Este es el script en python que he desarrollado para resolver el reto y para pasar un buen rato traduciendo textos.
 
 ![viking](../imagenes/kingragnar/logo.png)
-[FuthrakWhat](https://github.com/juanvelascogomez/futharkwhat)
+
+[FuthrakWhat python script](https://github.com/juanvelascogomez/futharkwhat)
 
 Una vez que le pasamos el fichero [evil_plan.txt](../archivos/kingragnar/evil_plan.txt) al programa nos devuelve el texto traducido:
 
