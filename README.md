@@ -16,4 +16,4 @@ Writeups de los tres retos de criptografía que propuse en la primera edición d
 
 - [x] [Amoy](writeups/AMOY.md)
 - [x] [Before your eyes](writeups/beforeyoureyes.md)
-- [ ] [All hail king Ragnar](writeups/KingRagnar.md)
+- [x] [All hail king Ragnar](writeups/KingRagnar.md)
