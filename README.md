@@ -1,4 +1,6 @@
-# [CTF_FWHBBIT]()
+# [CTF_FWHBBIT](https://ctf.followthewhiterabbit.es/)
+
+![logo](imagenes/ctf.png)
 
 ## [FWHIBBIT](http://fwhibbit.github.io/) - [Blog](https://fwhibbit.es/)
 
@@ -10,7 +12,7 @@
 
 Writeups de los tres retos de criptografía que propuse en la primera edición del evento "Captura la bandera" de Follow The White Rabbit.
 
-![logo](imagenes/crypto.png)
+![logocrypto](imagenes/logocrypto.png)
 
 ## BEFORE YOUR EYES
 
