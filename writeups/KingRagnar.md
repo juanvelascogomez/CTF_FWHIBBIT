@@ -2,7 +2,7 @@
 
 **Enunciado:** What will his next move be. Ragnar knows the passphrase. It's one of his sons. Find his next move and write it in the correct format: fwhibbit{flag}
 
-**Archivos proporcionados:** [conquer_paris.jpg](../archivos/KingRagnar/conquer_paris.jpg)
+**Archivos proporcionados:** [conquer_paris.jpg](../archivos/kingragnar/conquer_paris.jpg)
 
 **Puntos:** 250
 
@@ -12,7 +12,7 @@
 
 Lo primero era descargarse la imagen que se proporcionaba en un enlace. Se trata de una foto de Ragnar Lothbrok, un famoso vikingo. El primer paso para obtener la flag en este reto era ver si la imagen que se daba tenía algún archivo oculto. En este caso, al utilizar [steghide](http://steghide.sourceforge.net/) para tratar de obtener los ficheros ocultos nos pedía una passphrase, es decir, una contraseña.
 
-![conquer_paris.jpg](../archivos/KingRagnar/conquer_paris.jpg)
+![conquer_paris.jpg](../archivos/kingragnar/conquer_paris.jpg)
 
 Esta contraseña nos la proporcionaba, en parte, su enunciado. El enunciado dice que Ragnar conoce la contraseña, ésta, es uno de sus hijos. En wikipedia, se obtiene el mensaje:  "Ragnar toma como esposa a Aslaug (Kraka), también conocida como Randalin, hija de Sigurd y Brynhild y tuvieron cuatro hijos: Ivar, Björn, Hvitsärk y Sigurd Ragnarsson, llamado serpiente en el ojo por su iris, que se parecía a una serpiente rodeando la pupila."
 
@@ -20,7 +20,7 @@ Luego la contraseña sería uno de ellos. En este caso, lo ideal, era montar un 
 
 Puesto que el CTF estaba en inglés, la contraseña también lo estaría, en este caso:
 
-    **passphrase** = ivartheboneless
+    passphrase = ivartheboneless
 
 Es decir, su hijo, Ivar el Deshuesado.
 
