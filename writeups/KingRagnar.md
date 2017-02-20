@@ -24,7 +24,7 @@ Puesto que el CTF estaba en inglés, la contraseña también lo estaría, en est
 
 Es decir, su hijo, Ivar el Deshuesado.
 
-![extract](../imagenes/kingragnar/steghide.jpg)
+![extract](../imagenes/kingragnar/steghide.png)
 
 Y este era el resultado, había un archivo txt dentro de la imagen que se llamaba "evil_plan.txt", plan malvado del rey Ragnar.
 
@@ -36,7 +36,7 @@ Y este era el resultado, había un archivo txt dentro de la imagen que se llamab
 
     ᚢᛖᛖᚾ ᛚᚨᚷᛖᚱᛏᚼᚨ ᛁᛊᛋ ᚨ ᚹᛖᛚᛚ ᚲᚾᛟᚹᚾ ᛊᛋᚼᛁᛖᛚᛞ ᛗᚨᛁᛞᛖᚾ ᚨᚾᛞ ᚢᛖᛖᚾ ᚱᛖᚷᚾᚨᚾᛏ ᛟᚠ ᛞᛖᚾᛗᚨᚱᚲ. ᛊᛋᚼᛖ ᚲᛟᚾᛏᛁᚾᚢᛖᛊᛋ ᛏᛟ ᚠᛁᚷᚼᛏ ᚨᛚᛟᚾᚷᛊᛋᛁᛞᛖ ᚼᛖᚱ ᚠᛟᚱᛗᛖᚱ ᚼᚢᛊᛋᛒᚨᚾᛞ, ᚱᚨᚷᚾᚨᚱ, ᚹᚼᛟᛗ ᛊᛋᚼᛖ ᛁᛊᛋ ᛊᛋᛏᛁᛚᛚ ᛁᚾ ᛚᛟᚹᛖ ᚹᛁᛏᚼ,  ᚼᛖᚱ ᚠᛖᛚᛚᛟᚹ ᚹᛁᚲᛁᚾᚷ ᚠᛁᚷᚼᛏᛖᚱᛊᛋ. ᛊᛋᛁᚾᚲᛖ ᛏᚼᛖ ᛚᛟᛊᛋᛊᛋ ᛟᚠ ᚼᛖᚱ ᚲᚼᛁᛚᛞᚱᛖᚾ ᚨᚾᛞ ᛊᛋᚢᚠᚠᛖᚱᛁᚾᚷ ᛏᚼᛖ ᛒᛚᛟᚹᛊᛋ ᛟᚠ ᛚᛟᚹᛖ ᚨᚾᛞ ᚱᛖᛃᛖᚲᛏᛁᛟᚾ, ᛚᚨᚷᛖᚱᛏᚼᚨ ᚱᛖᚨᛚᛁᛉᛖᛊᛋ ᛏᚼᚨᛏ ᚠᚱᛖᛁᛃᚨᛊᛋ ᚠᛖᚱᛏᛁᛚᛁᛏᛁ ᛁᛊᛋ ᛗᛖᚨᚾᛏ ᚠᛟᚱ ᚨᚾᛟᛏᚼᛖᚱ, ᚨᚾᛞ ᛏᚼᚨᛏ ᛁᛏ ᛁᛊᛋ ᛏᚼᛖ ᚷᛟᛞᛞᛖᛊᛋᛊᛋ ᚹᚨᚱᚱᛁᛟᚱ ᚨᛊᛋᛈᛖᚲᛏ ᛏᚼᚨᛏ ᛊᛋᛈᛖᚨᚲᛊᛋ ᛏᛟ ᚼᛖᚱ ᚠᛖᛚᛚᛟᚹ ᚹᚨᛚᚲᛁᚱᛁᛖ. ᛚᚨᚷᛖᚱᛏᚼᚨ ᚱᛖᛗᚨᛁᚾᛊᛋ ᚠᛁᛖᚱᚲᛖᛚᛁ ᛁᚾᛞᛖᛈᛖᚾᛞᛖᚾᛏ ᚹᚼᛖᚾ ᛁᛏ ᚲᛟᛗᛖᛊᛋ ᛏᛟ ᛈᚱᛟᛏᛖᚲᛏᛁᚾᚷ ᚼᛖᚱ ᚠᚨᛗᛁᛚᛁᚨᚾᛞ ᛏᚼᛖ ᛏᚼᚱᛟᚾᛖ.
 
-Dicho archivo, lo teneis disponible para descargar [evil_plan.txt](../archivos/KingRagnar/evil_plan.txt)
+Dicho archivo, lo teneis disponible para descargar [evil_plan.txt](../archivos/kingragnar/evil_plan.txt)
 
 Este texto, como bien se puede comprobar con una primera vista, no esta en español, sino que está en un idioma vikingo. Dicho idioma vikingo no es más que [futhark antiguo](https://es.wikipedia.org/wiki/Futhark_antiguo). En internet se pueden encontrar muchas imágenes y páginas web donde indagan un poco más en este lenguaje y en su traducción con respecto a las letras de nuestro abecedario.
 
