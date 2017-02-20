@@ -12,7 +12,7 @@
 
 Writeups de los tres retos de criptografía que propuse en la primera edición del evento "Captura la bandera" de Follow The White Rabbit.
 
-![logocrypto](imagenes/logocrypto.png)
+![logocrypto](imagenes/logocripto.png)
 
 ## BEFORE YOUR EYES
 
