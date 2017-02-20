@@ -2,7 +2,7 @@
 
 **Enunciado:** Oh god! You've ordered chinese food? I love chinese food! :D
 
-**Archivos proporcionados:** [Amoy1](..archivos/amoy/Amoy.jpg), [Amoy2](..archivos/amoy/Amoy2.jpg)
+**Archivos proporcionados:** [Amoy1](../archivos/amoy/Amoy.jpg), [Amoy2](../archivos/amoy/Amoy2.jpg)
 
 **Puntos:** 375
 
